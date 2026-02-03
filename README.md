@@ -96,19 +96,19 @@ Isso permite rodar o projeto sem instalar banco externo.
 
 - Clone o repositório:
 
-(adicionar print do comando)
+<img width="582" height="32" alt="image" src="https://github.com/user-attachments/assets/b7cce62b-9bbe-4d7c-ba38-9ed0e66940b1" />
 
 - Acesse a pasta do projeto:
 
-(adicionar print do comando)
+<img width="228" height="34" alt="image" src="https://github.com/user-attachments/assets/4e96ec88-2418-46dc-a013-5cc6c43ffc15" />
 
 - Execute a aplicação:
 
-(adicionar print do comando)
+<img width="187" height="36" alt="image" src="https://github.com/user-attachments/assets/05bc0dd1-a445-49bb-ae19-0a3fc9774142" />
 
-- A API estára disponível em:
+- A API estará disponível em:
 
-(Adicionar print do url)
+<img width="116" height="35" alt="image" src="https://github.com/user-attachments/assets/6943954e-21a2-4b06-a09e-96165f74af7e" />
 
 ## Possíveis evoluções futuras
 Este projeto foi pensado para crescer. Algumas evoluções naturais:
